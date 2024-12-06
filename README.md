@@ -2,7 +2,8 @@
 <p align="center">
 <br>
 <a href='https://kingjohanmd-creds-generator.onrender.com' target="_blank"><img alt='creds' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
-<a aria-label="if you cant get creds contact me" href="https://wa.me/2349134457509?text=Hi!! king johan Sir, I need Your Help" target="_blank">
+ ##if you can't fet creds contact me👇
+    <a aria-label="if you cant get creds contact me" href="https://wa.me/2349134457509?text=Hi!! king johan Sir, I need Your Help" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Owner%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
