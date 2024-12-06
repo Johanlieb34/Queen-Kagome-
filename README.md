@@ -17,3 +17,6 @@
 - This bot is not made by `WhatsApp Inc.` So misusing the bot might `ban` your `WhatsApp account!`(Though your WhatsApp account can be unbanned only once.)
 - I am not responsible for banning your account.
 - Use at your own risk by keeping this warning in mind.
+## ```My Channel```
+
+- [`Whatsapp Channel`](https://whatsapp.com/channel/0029VanxGm5J3jv39RvJIM39)
