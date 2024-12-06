@@ -9,6 +9,8 @@
     <img alt="whatsapp" src="https://img.shields.io/badge/Owner%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
+ ## after downloading zip remember to put creds on session folder
+
 ## 🚀 `Deployments`
 #### DEPLOY ON PANEL
 
