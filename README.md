@@ -8,4 +8,6 @@
 #### DEPLOY ON PANEL
 
     
-<a href='https://dashboard.katabump.com/auth/login#c0a726' target="_blank"><img alt='Panel' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href='https://dashboard.katabump.com/auth/login#c0a726' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+
+##REMEMBER TO STAR REPO🥹
